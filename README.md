@@ -1,8 +1,9 @@
 ## Hi there 👋
-
+hello world!!
+im currently working on multiple projects expanding from networking platforms to Ai agents and automation!!
 <!--
 **kkbuddy7/kkbuddy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+KKBu
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
